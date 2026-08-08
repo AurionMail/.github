@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="390.65475mm"
+   height="70.548386mm"
+   viewBox="0 0 390.65475 70.548386"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (1:1.4.4+202605061435+dcaf3e7d9e)"
+   sodipodi:docname="logo_dark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.3514415"
+     inkscape:cx="714.20137"
+     inkscape:cy="414.00916"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(83.872928,-39.158309)">
+    <g
+       id="g11"
+       inkscape:export-filename="aurion_black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(-900.8613,-802.5937)">
+      <g
+         id="g10">
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:5.5052;stroke-dasharray:none"
+           id="path6-5-4-0-4-4-4-4"
+           cx="983.69507"
+           cy="888.55463"
+           r="20.993166" />
+        <g
+           id="g9"
+           transform="translate(-162.73936,120.56352)"
+           style="stroke-width:2.2;stroke-dasharray:none">
+          <ellipse
+             style="fill:#db3b62;fill-opacity:1;stroke:#db3b62;stroke-width:2.2;stroke-dasharray:none;stroke-opacity:1"
+             id="path4-5-5-7-9-9-0-8"
+             cx="1370.2268"
+             cy="-158.73352"
+             rx="2.0186982"
+             ry="2.018698"
+             transform="rotate(39.983951)" />
+          <ellipse
+             style="fill:#7137c8;stroke:#7137c8;stroke-width:2.2;stroke-dasharray:none;stroke-opacity:1"
+             id="path4-5-93-2-8-2-5-5-1"
+             cx="-821.20795"
+             cy="-1120.5398"
+             rx="2.0186982"
+             ry="2.018698"
+             transform="rotate(160.22234)" />
+          <ellipse
+             style="fill:#aa0088;fill-opacity:1;stroke:#aa0088;stroke-width:2.2;stroke-dasharray:none;stroke-opacity:1"
+             id="path4-5-4-5-6-0-0-9-2"
+             cx="-556.94855"
+             cy="1253.4891"
+             rx="2.0186982"
+             ry="2.018698"
+             transform="rotate(-79.907164)" />
+          <ellipse
+             style="fill:#2c2ca0;stroke:#2c2ca0;stroke-width:2.2;stroke-dasharray:none;stroke-opacity:1"
+             id="path5-0-6-4-8-6-4-4-8"
+             cx="1371.9375"
+             cy="-148.38431"
+             rx="2.0186982"
+             ry="2.018698"
+             transform="rotate(39.983951)" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.4558px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:-6.10923px;word-spacing:-2.64583px;writing-mode:lr-tb;direction:ltr;fill:#db3b62;fill-opacity:1;stroke:#aa0088;stroke-width:83.5804;stroke-dasharray:none;stroke-opacity:1"
+         x="1005.0142"
+         y="910.3938"
+         id="text7-6-9"><tspan
+           id="tspan7-9-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:-6.10923px;word-spacing:-2.64583px;fill:#000000;stroke:none;stroke-width:83.5804"
+           x="1005.0142"
+           y="910.3938"
+           sodipodi:role="line"><tspan
+   style="font-weight:normal"
+   id="tspan9-6">n</tspan>Mail</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.4558px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:-6.10923px;word-spacing:-2.64583px;writing-mode:lr-tb;direction:ltr;fill:#db3b62;fill-opacity:1;stroke:#aa0088;stroke-width:83.5804;stroke-dasharray:none;stroke-opacity:1"
+         x="819.51379"
+         y="911.30676"
+         id="text7-6-9-0"><tspan
+           id="tspan7-9-3-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:-6.10923px;word-spacing:-2.64583px;fill:#000000;stroke:none;stroke-width:83.5804"
+           x="819.51379"
+           y="911.30676"
+           dx="-3.4100001"
+           sodipodi:role="line"><tspan
+             style="font-weight:normal"
+             id="tspan9-6-1">Auri</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
