@@ -7,3 +7,6 @@
 </picture>
 
 <br/>
+<br/>
+</div>
+Don't know what we make here ? See docs repository : https://github.com/AurionMail/docs
