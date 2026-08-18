@@ -10,3 +10,5 @@
 <br/>
 </div>
 Don't know what we make here ? See docs repository : https://github.com/AurionMail/docs
+
+For issues, please open in the `docs` repo which centralize all.
